@@ -42,7 +42,7 @@
         </snapshotRepository>
     </distributionManagement>
     <build>
-    	<finalName>javaee7-simple-sample</finalName>
+    	<finalName>javaee7-simple-sample-test</finalName>
         <pluginManagement>
             <plugins>
                 <plugin>
